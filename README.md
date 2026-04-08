@@ -1,8 +1,10 @@
 # engenharia_de_prompt_fundamentos
 ATIVIDADES FACULDADE (README)
+
 --------------------------------------------------MISSÃO 01-------------------------------------------------------------------
 A disciplina de Engenharia de Software é uma área da computação voltada para a aplicação de princípios de engenharia no desenvolvimento, manutenção e evolução de sistemas de software. O objetivo é criar soluções tecnológicas robustas, eficientes, seguras e escaláveis, atendendo às necessidades de usuários e organizações.
---------------------------------------------------MISSÃO 02-------------------------------------------------------------------
+
+-------------------------------------------------MISSÃO 02-------------------------------------------------------------------
                                              °PROMPT NÃO ELABORADO°
 Machine learning (aprendizado de máquina) é uma área da Inteligência Artificial que permite que computadores aprendam padrões a partir de dados — sem serem programados com regras fixas para cada situação.
 Em vez de você dizer exatamente o que o sistema deve fazer, você fornece dados, e o algoritmo aprende sozinho como tomar decisões ou fazer previsões.
