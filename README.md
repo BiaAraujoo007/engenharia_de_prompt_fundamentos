@@ -35,7 +35,9 @@ Machine learning é fazer máquinas “aprenderem com experiência”, parecido 
   Agora imagine diferentes formas de treino: quando o técnico orienta diretamente (“isso foi um bom passe, isso foi ruim”), é como o aprendizado supervisionado — o modelo recebe respostas corretas para aprender. Quando o jogador apenas joga e descobre estratégias sozinho, é como o aprendizado não supervisionado — ele encontra padrões sem instruções claras. E quando ele ganha pontos por boas jogadas, como marcar um gol, isso se parece com aprendizado por reforço. Em todos os casos, assim como no esporte, o progresso vem da prática e da experiência acumulada.
                                                     °OPINIÃO°
 A segunda resposta foi mais útil porque foi implementado na pergunta conjuntos de informações que são importantes para que a IA consiga seguir uma linha de "pensamento" antes de fornecer uma resposta ao usuário. Logo, a 2° resposta gerada diminui a ambiguidade porque ela é objetivo a algo ou alguém.
-----------------------------------------------------MISSÃO 03----------------------------------------------------------------------
+
+--------------------------------------------------MISSÃO 03----------------------------------------------------------------------
+*NEW FILE*
 
 
 A resposta mais útil pensando em ser clara foi a segunda, porque a pergunta direcionada para a IA responder era mais concreta no que eu queria que ela me desse de informações e como eu queria receber essas informações.
