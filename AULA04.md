@@ -53,5 +53,9 @@ print(calcular_media([1.5, 2.5, 3.5]))  # Saída esperada: 2.5
 # Caso 3: Lista vazia (erro esperado)
 try:
     print(calcular_media([]))
+
+
+ Na minha opinião, deixar definido um papel claro (persona) no prompt melhora a resposta da inteligência artificial, porque direciona como ela deve pensar e responder. Quando a gente diz, por exemplo, que ela deve agir como um universitário ou um técnico, a resposta fica mais organizada, mais fácil de entender e mais adequada ao objetivo, sem identificar algo ou alguem a resposta pode ficar genérica ou confusa. Então, usar persona ajuda a deixar a resposta mais útil, com uma estrutura melhor e mais próxima do que a gente realmente precisa.
+
 except ValueError as e:
     print(e)  # Saída esperada: "A lista não pode estar vazia."
